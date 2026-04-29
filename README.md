@@ -34,35 +34,29 @@ It helps in maintaining an online presence and sharing updates about technical a
 - JavaScript  
 
 ---
-
 ## 📂 Project Structure
 
 IEEE-Website/
 
 ├── README.md
 
-├── index.html
+├── index (3).html
 
-├── style.css
+├── style (2).css
 
-├── script.js
+├── script (2).js
 
-├── assets/
+├── ghg.jpg
 
-│   └── images/
+├── rew.jpg
 
-│       ├── ghg.jpg
+├── sd.png
 
-│       ├── rew.jpg
+├── teamImageIEEE.jpeg
 
-│       ├── sd.png
+├── tyu.jpeg
 
-│       ├── teamImageIEEE.jpeg
-
-│       ├── tyu.jpeg
-
-│       └── wieImg.jpg
-
+└── wieImg.jpg
 
 ---
 
