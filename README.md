@@ -37,18 +37,31 @@ It helps in maintaining an online presence and sharing updates about technical a
 
 ## 📂 Project Structure
 
-
 IEEE-Website/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│ ├── images/
-│ └── icons/
-│── pages/
-│ ├── events.html
-│ ├── team.html
-│ └── contact.html
+
+├── README.md
+
+├── index.html
+
+├── style.css
+
+├── script.js
+
+├── assets/
+
+│   └── images/
+
+│       ├── ghg.jpg
+
+│       ├── rew.jpg
+
+│       ├── sd.png
+
+│       ├── teamImageIEEE.jpeg
+
+│       ├── tyu.jpeg
+
+│       └── wieImg.jpg
 
 
 ---
