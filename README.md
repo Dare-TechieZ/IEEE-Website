@@ -84,7 +84,7 @@ cd IEEE-Website
 
 ## 💡 Usage
 
-- Update content for your IEEE branch
+- Update content for on IEEE branch
 - Add new events and workshops
 - Modify team member details
 - Customize design as needed
